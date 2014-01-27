@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MileageTracker</string>
+    <string name="action_settings">Settings</string>
+    <string name="week_text">Weekly Total</string>
+    <string name="month_text">Monthly Total</string>
+    <string name="title_activity_screen_popup">Screen_popup</string>
+
+    
+<!-- for popup -->
+	<string name="txtbox_description">Enter Mileage Here</string>
+	<string name="btnSubmit">Submit</string>
+	<string name="btnClose">Close</string>
+	
+</resources>
